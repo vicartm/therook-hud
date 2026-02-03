@@ -1,4 +1,4 @@
- function Initialize()
+function Initialize()
      Parse()
  end
  
